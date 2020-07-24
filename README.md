@@ -6,6 +6,6 @@ Pour plus d'information sur notre mini projet merci de consulter la video  ou  D
 Remarque: On a fait le maximum pour faire seulement 5 min de presentation, mais on a pas pu car le temps de 5 min n'est pas suffisant pour passer tout les éléments de                       projet, pourcela on a ajouté une autre vidéo optimisé dans laquelle on a elevé quelque parties de la présentation.
 
 Video complete :  https://drive.google.com/file/d/1zlfGCeoKHcLxmRpwW-mcGHa3HtQIgBTe/view?usp=sharing     
-video optimisé : https://drive.google.com/file/d/1k830oUEg7Wy99NxNCGexMrO2m1Cyb46f/view?usp=sharing
+video optimisé : https://drive.google.com/file/d/1k830oUEg7Wy99NxNCGexMrO2m1Cyb46f/view?usp=sharing        
 docummentation :  https://github.com/NLPFSR/NLP-PROJECT-MORJANI-ZOUHIR-ET-AMINE-MOHAMED-ZAHER/blob/master/Documentation.pdf
 
